@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CopyReference" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="Inline" />
+  <action id="ShowReformatFileDialog" />
+</keymap>

@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="16ae766d-b1e7-491d-82e2-7b576790eb6d" name="cookstory server" url="http://localhost">
+        <fileTransfer host="106.101.100.199" port="22" rootFolder="/home/g.ignatiuk/www/cookstory" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
