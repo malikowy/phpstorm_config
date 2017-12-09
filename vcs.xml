@@ -62,8 +62,16 @@
           <option name="url" value="http://gl.cheil.pl:8811/pl/lp-powerbot-sw.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gl.cheil.pl:8811" />
+          <option name="userName" value="g.ignatiuk" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gl.cheil.pl:8811/pl/com-careers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="B:\WORK WORK WORK\PROJECTS" />
+    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
   </component>
 </application>
