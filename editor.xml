@@ -6,4 +6,7 @@
   <component name="LiveEditOptions" chromeUpdateApp="true">
     <option name="elementHighlighting" value="true" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
 </application>
